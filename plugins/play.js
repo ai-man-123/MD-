@@ -47,7 +47,7 @@ ${vid.url}
            hydratedButtons: [{
              urlButton: {
                displayText: 'DONASI',
-               url: 'https://saweria.co/ilmanhdyt',
+               url: '0102810046',
              }
 
            },
