@@ -23,13 +23,13 @@ let anu = `╭───❑ 「 BALANCE 」 ❑────
            hydratedButtons: [{
              urlButton: {
                displayText: '💠 Source Code',
-               url: 'https://github.com/ilmanhdyt/ShiraoriBOT-Md'
+               url: 'https://github.com/ai-man-123/MD-'
              }
 
            },
                {
              quickReplyButton: {
-               displayText: '🔙 Back To Menu',
+               displayText: '🔙 Back To Menu🗿',
                id: '.menu',
              }
 
